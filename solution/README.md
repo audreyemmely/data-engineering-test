@@ -42,7 +42,7 @@ Obviously I don't know all this off the top of my head, but I did a brief google
 1. When I tried to read the xls file, I couldn't see the cache pages, I tried to convert to xlsx and it didn't work either, in the end I decided to convert to ods and I could see everything.
 To solve this I googled how to covert from xls to ods and I found [this tutorial](https://ask.libreoffice.org/t/convert-to-command-line-parameter/840).
 
-2. When processing the data I didn't know how to unpivot through python, but doing research I found the ```melt``` function in the pandas library that can perform this operation.
+2. When processing the data I didn't know how to unpivot through python, but doing research I found the ```melt``` [function](https://pandas.pydata.org/docs/reference/api/pandas.melt.html) in the pandas library that can perform this operation.
 
 <br/>
 
