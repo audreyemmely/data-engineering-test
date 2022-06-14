@@ -1,0 +1,4 @@
+odfpy
+psycopg2
+dotenv
+pandas
