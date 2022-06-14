@@ -75,9 +75,15 @@ Finally, run the program using the following command:
 python3 main.py
 ```
 
-Now you can access your database and see the data in the ```dim_anp_fuel``` and ```dim_anp_diesel``` tables.
+Now you can access your database and see the data in the ```dim_anp_diesel``` and ```dim_anp_fuel``` tables.
 
-<img src="https://media.giphy.com/media/l4JySAWfMaY7w88sU/giphy.gif" width="450" height="250"/>
+![table1](https://github.com/audreyemmely/data-engineering-test/blob/master/images/prints/dados%20diesel.png?raw=true)
+
+![table2](https://github.com/audreyemmely/data-engineering-test/blob/master/images/prints/dados%20fuel.png?raw=true)
+
+<p align='center'>
+<img src="https://media.giphy.com/media/l4JySAWfMaY7w88sU/giphy.gif"/>
+</p>
 
 If you want, [here](https://github.com/audreyemmely/data-engineering-test/tree/master/images/prints) are some screenshots of my screen to compare with your results!
 
