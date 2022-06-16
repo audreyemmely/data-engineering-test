@@ -85,7 +85,7 @@ Now you can access your database and see the data in the ```dim_anp_diesel``` an
 <img src="https://media.giphy.com/media/l4JySAWfMaY7w88sU/giphy.gif"/>
 </p>
 
-If you want, [here](https://github.com/audreyemmely/data-engineering-test/tree/master/images/prints) are some screenshots of my screen to compare with your results!
+If you want, [here](https://github.com/audreyemmely/data-engineering-test/tree/master/images/prints) are some screenshots of my screen and [csv files](https://github.com/audreyemmely/data-engineering-test/tree/master/assets/csv) to compare with your results!
 
 ### <a name="version"></a> 🛠️ Technologies used:
 
